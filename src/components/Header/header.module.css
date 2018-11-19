@@ -1,0 +1,17 @@
+.header {
+  background-image: linear-gradient(to right, #5C258D, #4389A2);
+  color: var(--light)
+}
+
+.intro {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  width: 100%;
+  max-width: 80%;
+  font-size: 40px;
+  
+  text-align: center;
+  transform: translate(-50%, -50%);
+}

@@ -1,9 +1,10 @@
 import React from 'react'
+import styles from './header.module.css'
 
-const Contact = () => (
-  <section>
-    Seção Contact
+const Header = () => (
+  <section className={styles.header}>
+    <h1 className={styles.intro}>Victor Nery.</h1>
   </section>
 )
 
-export default Contact
+export default Header

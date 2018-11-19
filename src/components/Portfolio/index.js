@@ -1,7 +1,8 @@
 import React from 'react'
+import styles from './portfolio.module.css'
 
 const Portfolio = () => (
-  <section>
+  <section className={styles.portfolio}>
     Seção Portfolio
   </section>
 )

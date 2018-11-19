@@ -1,9 +1,10 @@
 import React from 'react'
+import styles from './footer.module.css'
 
 const Footer = () => (
-  <section>
+  <footer className={styles.footer}>
     Seção Footer
-  </section>
+  </footer>
 )
 
 export default Footer
