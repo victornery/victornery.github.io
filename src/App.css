@@ -2,6 +2,7 @@
 
 :global(:root) {
   --light: #fff;
+  --brand: #3e84bb;
 }
 
 :global(section) {

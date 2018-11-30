@@ -3,7 +3,7 @@ import styles from './footer.module.css'
 
 const Footer = () => (
   <footer className={styles.footer}>
-    Seção Footer
+    Victor Nery 🌎 2018
   </footer>
 )
 
